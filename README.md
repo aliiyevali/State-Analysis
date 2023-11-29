@@ -1,4 +1,4 @@
-Introduction
+# Introduction
 
 As an aspiring data analyst and scientist poised to graduate soon, my journey into the professional world is marked by a crucial decision: selecting the ideal state in the USA to live in and start my career. This decision, pivotal in shaping my professional and personal life, led me to leverage my analytical skills to make an informed choice. This document encapsulates the comprehensive analysis undertaken to understand sentiments about different states in the USA, providing insights into which locations might offer the most favorable conditions to live in for any person like myself.
 
