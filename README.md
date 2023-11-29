@@ -165,6 +165,7 @@ https://www.oreilly.com/library/view/essential-math-for/9781098107628/
 https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/learn/lecture/10777190#content 
 
 Povak, N. A., Hessburg, P. F., McDonnell, T. C., Reynolds, K. M., Sullivan, T. J., Salter, R. B., & Cosby, B. J. (2014). Machine learning and linear regression models to predict catchment-level base cation weathering rates across the southern Appalachian Mountain region, USA. Water Resources Research, 50(4), 2798–2814. 
+
 https://doi.org/10.1002/2013WR014203 
 
 
