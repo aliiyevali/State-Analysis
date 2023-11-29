@@ -153,3 +153,13 @@ It's noteworthy that Rhode Island tops the New England region with a high positi
 ### Reviews By Category Waffle Chart
 
 Lastly, the waffle chart at the bottom left provides a percentage breakdown of all reviews into positive and negative categories. Each small square represents a proportion of the total number of reviews, with red squares indicating negative sentiments and blue squares representing positive ones. The resulting visualization confirms that nearly 60% of all reviews are positive, while 40% are negative, thus giving a quick visual reference to the overall sentiment tilt.
+
+### References:
+
+https://www.udemy.com/course/tableau-for-beginners/ 
+https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/ 
+https://www.oreilly.com/library/view/essential-math-for/9781098107628/
+https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/learn/lecture/10777190#content 
+Povak, N. A., Hessburg, P. F., McDonnell, T. C., Reynolds, K. M., Sullivan, T. J., Salter, R. B., & Cosby, B. J. (2014). Machine learning and linear regression models to predict catchment-level base cation weathering rates across the southern Appalachian Mountain region, USA. Water Resources Research, 50(4), 2798–2814. https://doi.org/10.1002/2013WR014203 
+
+
