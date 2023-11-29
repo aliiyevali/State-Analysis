@@ -38,11 +38,8 @@ The application phase of the project was designed to leverage the power of NLP i
 NLP Integration: By applying NLP techniques to the comments dataset, I was able to extract key words that recurrently appeared in discussions about each state. This process involved parsing through the text data, identifying significant words, and ranking them based on frequency and relevance.
 Application Development The culmination of this analysis was the creation of an interactive application. This user-friendly tool is designed to accept a state name as input and, in response, generate a list of the top 10 words that are most commonly associated with that state in the dataset.
 An example of the application's utility can be illustrated with Massachusetts. Upon entering "Massachusetts" as the input, the application returns words like "education", "health care", "schools", and "mountains" among others. These words collectively represent what comes to mind when thinking about Massachusetts.
-![image](https://github.com/aliiyevali/Stateside-Sentiment-Analysis-Ideal-Destination/assets/147966223/c9ecbc2d-3d90-4d8f-9920-14d76d3238a6)
 
-
-
-
+<img width="837" alt="Screenshot 2023-11-29 at 3 16 05 AM" src="https://github.com/aliiyevali/Stateside-Sentiment-Analysis-Ideal-Destination/assets/147966223/11d543a8-68e3-4c9e-ba35-37686b65197c">
 
 As a resident of Massachusetts, myself, I can attest to the accuracy of the application. It effectively captures and reflects the prevailing sentiments and characteristics associated with the state, as expressed in the Reddit comments.
 
@@ -74,7 +71,7 @@ In this analysis, state weights are based on comment counts, avoiding bias from 
 
 Here are the results:
 
-![image](https://github.com/aliiyevali/Stateside-Sentiment-Analysis-Ideal-Destination/assets/147966223/6d06611e-457a-4f71-80d2-fb41b31a0c38)
+<img width="483" alt="Screenshot 2023-11-29 at 12 23 54 AM" src="https://github.com/aliiyevali/Stateside-Sentiment-Analysis-Ideal-Destination/assets/147966223/aa4cdd12-c3a4-48c0-9f73-accebded876f">
 
 California has the highest weighted average sentiment score of approximately 0.26333. This number is a relative measure, meaning it is not just the sentiment but the sentiment as a proportion of the total sentiment across all states. The score indicates that California not only received a high sentiment score on average but also that this score is significant in the context of the overall sentiment across all reviews.
 Limitations:
@@ -95,7 +92,8 @@ Unlike previous methods that relied on sentiment scores, this approach centered 
 By comparing states based purely on the count of positive or negative reviews, this method provided a different viewpoint. It helped to balance the analysis by considering the raw number of sentiments expressed, regardless of the state's online presence or engagement levels.
 While categorical analysis offers valuable insights by focusing on the volume of positive or negative reviews, it is important to acknowledge its limitations, especially in the context of internet usage disparities:
 Different states have varying levels of internet penetration and activity. States with higher internet usage are likely to generate more comments, which can skew the analysis. This disparity means that the count of positive or negative reviews might not accurately reflect the sentiment towards a state but rather its online activity level. Relying solely on the number of reviews could lead to a misrepresentation of the overall sentiment. States with less internet engagement might have fewer comments, resulting in an underrepresentation of their sentiments in the analysis.
-![image](https://github.com/aliiyevali/Stateside-Sentiment-Analysis-Ideal-Destination/assets/147966223/44206bbc-81a3-4822-861a-f5ba25f7ad85)
+
+<img width="638" alt="Screenshot 2023-11-29 at 3 18 46 AM" src="https://github.com/aliiyevali/Stateside-Sentiment-Analysis-Ideal-Destination/assets/147966223/e15d68aa-9c42-491f-8b75-1661eb44e9d1">
 
 Therefore, while the categorical analysis provides a different viewpoint, it is crucial to consider these limitations and interpret the findings within the context of internet usage disparities among states.
 
@@ -107,10 +105,12 @@ Each of the previous methods brought its unique insights but also had inherent l
 By calculating the Z-scores for each state, it became possible to understand the relative position of each state's sentiment in the context of the national sentiment landscape. This method provides a standardized measure, making it easier to compare states with varying numbers of comments and levels of internet engagement.
 Z-scores normalize the data, allowing for a fair comparison between states by accounting for differences in sample sizes and variances.
 This approach is particularly useful in identifying states that have exceptionally high or low sentiment scores relative to the national average, highlighting outliers that might be of particular interest.
-![image](https://github.com/aliiyevali/Stateside-Sentiment-Analysis-Ideal-Destination/assets/147966223/1fb3601b-1271-4925-9335-616019706b81)
-Virginia has the highest z-score, which suggests that it has the most positive sentiment score relative to the other states. If we are to interpret the "best" state as the one with the most positive reviews, then Virginia would be the answer given the data from Reddit.
-Part 6: Tableau Dashboard, Graphs and Results![image](https://github.com/aliiyevali/Stateside-Sentiment-Analysis-Ideal-Destination/assets/147966223/aa94d175-e82b-4c48-b691-59996a824262)
 
+<img width="365" alt="Screenshot 2023-11-29 at 3 19 55 AM" src="https://github.com/aliiyevali/Stateside-Sentiment-Analysis-Ideal-Destination/assets/147966223/dcebfd9d-2092-44e9-98e1-fb873b3f9c2c">
+
+Virginia has the highest z-score, which suggests that it has the most positive sentiment score relative to the other states. If we are to interpret the "best" state as the one with the most positive reviews, then Virginia would be the answer given the data from Reddit.
+Part 6: Tableau Dashboard, Graphs and Results
+<img width="1440" alt="State Tableau" src="https://github.com/aliiyevali/Stateside-Sentiment-Analysis-Ideal-Destination/assets/147966223/dd109b36-ccaf-4cf5-b5e1-2491a35fb00d">
 
 Analytical Dashboard Breakdown
 
